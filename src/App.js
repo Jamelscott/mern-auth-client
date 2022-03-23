@@ -11,12 +11,12 @@ import Login from './components/pages/Login'
 import Profile from './components/pages/Profile'
 import Register from './components/pages/Register'
 import Welcome from './components/pages/Welcome'
-//CSS
-import './App.css';
+//CSS & Bootstra
 // React imports
 import { useEffect, useState } from 'react'
 import jwt_decode from 'jwt-decode'
 import {Navigate} from 'react-router-dom'
+
 
 
 
